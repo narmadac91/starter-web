@@ -12,4 +12,6 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+Can be deployed on server
+
 ## How to Contribute
