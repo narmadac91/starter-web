@@ -19,3 +19,6 @@ Can be deployed on server
 Contribute by adding more content to this.
 
 ## Contact
+
+### Copyright
+xyz@copyright 2020
