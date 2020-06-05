@@ -20,7 +20,7 @@ Pull the requests, make changes and push.
 
 ## Contact
 
-Adding new line for rebasing
+Adding new line for rebasing, more changes from feature branch.
 
 ### Copyright
 xyz@copyright 2020
