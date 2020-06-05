@@ -20,5 +20,7 @@ Pull the requests, make changes and push.
 
 ## Contact
 
+Adding new line for rebasing
+
 ### Copyright
 xyz@copyright 2020
