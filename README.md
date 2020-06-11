@@ -23,4 +23,4 @@ Pull the requests, make changes and push.
 Adding new line for rebasing, more changes from feature branch.
 
 ### Copyright
-xyz@copyright 2020 all rights reserved
+xyz@copyright 2020 all rights reserved.
